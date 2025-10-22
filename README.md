@@ -30,7 +30,7 @@ Image encryption using AES(128 bit) and chaos map, and steganography using DCT D
    mkdir dataset
 
 <!-- Links -->
-[cpp-img]: https://isocpp.org/assets/images/cpp_logo.png
+[cpp-img]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF
 [cpp-link]: https://isocpp.org/
-[py-img]: https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1646853871
+[py-img]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF
 [py-link]: https://www.python.org/
