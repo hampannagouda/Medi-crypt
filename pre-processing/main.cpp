@@ -41,6 +41,8 @@ int main() {
     std::cout << "Image size: " << gray.cols << "x" << gray.rows << std::endl;
     std::cout << "Total bits: " << bitStream.size() << std::endl;
     std::cout << "Output saved to bitstream.txt" << std::endl;
-
+    std::cout << "Output saved to bitstream.txt" << std::endl;
+    
     return 0;
+
 }
