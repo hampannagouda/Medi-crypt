@@ -1,0 +1,9 @@
+# binaries
+*.exe
+*.out
+
+# build
+build/
+
+# OS
+.DS_Store
